@@ -1,2 +1,3 @@
-# demo
-This is a demo gir repo
+# Demo Repository without content
+
+This is a demo git repo
